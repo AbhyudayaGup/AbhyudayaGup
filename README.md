@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhyudayagup&show_icons=true&locale=en&layout=compact" alt="abhyudayagup" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhyudayagup&show_icons=true&locale=en" alt="abhyudayagup" /></p>
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨

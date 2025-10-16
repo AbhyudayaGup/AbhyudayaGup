@@ -18,6 +18,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhyudayagup&show_icons=true&locale=en&layout=compact" alt="abhyudayagup" /></p>
 
+<img src="https://raw.githubusercontent.com/AbhyudayaGup/AbhyudayaGup/output/snake.svg" alt="Snake animation" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhyudayagup&show_icons=true&locale=en" alt="abhyudayagup" /></p>
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>

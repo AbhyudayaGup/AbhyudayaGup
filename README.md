@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhyudayagup&label=Profile%20views&color=0e75b6&style=flat" alt="abhyudayagup" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhyudayagup" alt="abhyudayagup" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhyudayagup&theme=algolia" alt="abhyudayagup" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://abhyudayatech.netlify.app/](https://abhyudayatech.netlify.app/)
 

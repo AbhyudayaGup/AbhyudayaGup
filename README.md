@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&letterSpacing=high&duration=4000&pause=500&color=1671F7&center=true&vCenter=true&width=435&lines=Hey!+I'm+Abhyudaya+Gupta!%F0%9F%91%8B;I'm+a+student%2C+Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Student and Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhyudayagup&label=Profile%20views&color=0e75b6&style=flat" alt="abhyudayagup" /> </p>
 

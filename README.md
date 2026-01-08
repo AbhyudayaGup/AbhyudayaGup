@@ -18,7 +18,7 @@
 
 ---
 <!--
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhyudayaGup&show_icons=true&theme=radical&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhyudayaGup&layout=compact&theme=radical" height="180"/>
